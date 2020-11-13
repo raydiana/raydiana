@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Ray Diana
-<img src="https://media.giphy.com/media/caaQDrXyvk1laZRwlI/giphy.gif" width="100" height="auto" alt="gif">
+<img src="https://media.giphy.com/media/caaQDrXyvk1laZRwlI/giphy.gif" width="600" height="auto" alt="gif">
 
 <!--
 **raydiana/raydiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
