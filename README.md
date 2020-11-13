@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Ray Diana
 <img src="https://media.giphy.com/media/caaQDrXyvk1laZRwlI/giphy.gif" alt="gif">
 
 <!--
