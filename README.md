@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://media.giphy.com/media/caaQDrXyvk1laZRwlI/giphy.gif" alt="gif">
 
 <!--
 **raydiana/raydiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
